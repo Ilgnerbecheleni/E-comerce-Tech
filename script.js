@@ -11,8 +11,10 @@ $('.buy').click(function() {
   });
 
 
-console.log(buttons);
+$('#navbutton').click(()=>{
+    console.log('click')
 
+});
 
 
 
